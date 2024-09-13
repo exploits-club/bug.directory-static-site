@@ -4,7 +4,7 @@
 ## What Is It?
 bug.directory is a searchable Obsidian vault brought to you by the [exploits.club](https://exploits.club) team. It's intended to serve as a collection of vuln research, exploit development, and reverse engineering resources to help you get spun up on new projects fast. 
 
-The database has been initially seeded with weekly resources collected in https://blog.exploits.club. **That said, the vault is [open-source](https://github.com/exploits-club/bug.directory) and thus the more contributions from the community the better.**
+The database has been initially seeded with weekly resources collected for [the exploits club newsletter](https://blog.exploits.club). **That said, the vault is [open-source](https://github.com/exploits-club/bug.directory) and thus the more contributions from the community the better.**
 
 ## How To Use It?
 
