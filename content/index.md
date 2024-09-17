@@ -9,7 +9,7 @@ The database has been initially seeded with weekly resources collected for [the 
 ## How To Use It?
 
 ### Online:
-The *easiest* way to get spun up is check out some of the tags linked below, or use the search bar to find something specific (platform, primitive, resource, etc). That said, there are some limiatations with how Quartz generates a static site from the vault sooo 👇 
+The *easiest* way to get spun up is check out some of the tags linked below, or use the search bar to find something specific (platform, primitive, resource, etc). However, there are some limiatations with how Quartz generates a static site from the vault sooo 👇 
 ### Locally
 The vault *really* shines when used locally with [Obsidian](https://obsidian.md/) - It was designed with graph view in mind, which isn't as fully featured on the web platform (WIP - see [[index#How To Get Involved? | How To Get Involved]]). You can clone a copy from our [GitHub](https://github.com/exploits-club/bug.directory)
 
